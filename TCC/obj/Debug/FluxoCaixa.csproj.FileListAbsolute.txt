@@ -1,0 +1,11 @@
+C:\Users\yussu\source\repos\FluxoTCC\FluxoCaixa\FluxoCaixa\obj\Debug\FluxoCaixa.csprojAssemblyReference.cache
+C:\Users\yussu\source\repos\FluxoTCC\FluxoCaixa\FluxoCaixa\obj\Debug\FluxoCaixa.HOME.resources
+C:\Users\yussu\source\repos\FluxoTCC\FluxoCaixa\FluxoCaixa\obj\Debug\FluxoCaixa.PRODUTOS.resources
+C:\Users\yussu\source\repos\FluxoTCC\FluxoCaixa\FluxoCaixa\obj\Debug\FluxoCaixa.Properties.Resources.resources
+C:\Users\yussu\source\repos\FluxoTCC\FluxoCaixa\FluxoCaixa\obj\Debug\FluxoCaixa.csproj.GenerateResource.cache
+C:\Users\yussu\source\repos\FluxoTCC\FluxoCaixa\FluxoCaixa\obj\Debug\FluxoCaixa.csproj.CoreCompileInputs.cache
+C:\Users\yussu\source\repos\FluxoTCC\FluxoCaixa\FluxoCaixa\bin\Debug\FluxoCaixa.exe.config
+C:\Users\yussu\source\repos\FluxoTCC\FluxoCaixa\FluxoCaixa\bin\Debug\FluxoCaixa.exe
+C:\Users\yussu\source\repos\FluxoTCC\FluxoCaixa\FluxoCaixa\bin\Debug\FluxoCaixa.pdb
+C:\Users\yussu\source\repos\FluxoTCC\FluxoCaixa\FluxoCaixa\obj\Debug\FluxoCaixa.exe
+C:\Users\yussu\source\repos\FluxoTCC\FluxoCaixa\FluxoCaixa\obj\Debug\FluxoCaixa.pdb
