@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Arquivos\Login_Cadastro\bin\Debug\Login_Cadastro.exe.config
+C:\Users\Usuario\Desktop\Arquivos\Login_Cadastro\bin\Debug\Login_Cadastro.exe
+C:\Users\Usuario\Desktop\Arquivos\Login_Cadastro\bin\Debug\Login_Cadastro.pdb
+C:\Users\Usuario\Desktop\Arquivos\Login_Cadastro\obj\Debug\Login_Cadastro.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Arquivos\Login_Cadastro\obj\Debug\Login_Cadastro.Form1.resources
+C:\Users\Usuario\Desktop\Arquivos\Login_Cadastro\obj\Debug\Login_Cadastro.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Arquivos\Login_Cadastro\obj\Debug\Login_Cadastro.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Arquivos\Login_Cadastro\obj\Debug\Login_Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Arquivos\Login_Cadastro\obj\Debug\Login_Cadastro.exe
+C:\Users\Usuario\Desktop\Arquivos\Login_Cadastro\obj\Debug\Login_Cadastro.pdb
+C:\Users\Usuario\Desktop\Arquivos\Login_Cadastro\obj\Debug\Login_Cadastro.Apresentaçao.Cadastro.resources
